@@ -56,7 +56,7 @@ print(L)
 
 print(U)
 
-Program to find the LU Decomposition of a matrix.
+(ii) Program to find the LU Decomposition of a matrix.
 
 Developed by: Virumaa harish M
 
