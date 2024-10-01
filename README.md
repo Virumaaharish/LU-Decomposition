@@ -62,7 +62,7 @@ Developed by: Virumaa harish M
 
 RegisterNumber: 212223230246
 
-# To print X matrix (solution to the equations)
+To print X matrix (solution to the equations)
 
 import numpy as np
 
